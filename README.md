@@ -1,4 +1,4 @@
-## Javascript Movie Director
+## Javascript Movie Directory
 
 Description: A simple search app for movies.
 
