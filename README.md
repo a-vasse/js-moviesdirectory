@@ -7,4 +7,4 @@ Description: A simple search app for movies.
 - Reading from a json file and outputing
 - Highlighting search queries in the results
 
-- Bomus file: Using regex to add commas to long numbers
+- Bonus file: Using regex to add commas to long numbers
